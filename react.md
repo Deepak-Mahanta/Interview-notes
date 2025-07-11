@@ -32,7 +32,7 @@ React Hooks are functions that allow you to use React features and lifecycle met
 
 A functional component in React is a JavaScript function that returns JSX (JavaScript XML) JSX is similar to HTML, but has a unique syntax.
 
-## What is class components components in reactjs?
+## What is class components in reactjs?
 
 A class component in React is a JavaScript class that renders React components.
 
